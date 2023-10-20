@@ -16,10 +16,6 @@ remove: Remove files
     remove <comma separated filenames>
 commit: Set the commit message
     commit <message>
-comment: Set the comment message
-    comment <<EOF
-    <message>
-    EOF
 exit: Exit the program
     exit
     '''
